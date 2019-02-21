@@ -22,8 +22,8 @@ Register <a target="_blank" href="https://bvnt2.org/beroepsregister-nt2-docenten
 <a target="_blank" href="Bestanden/Algemene_voorwaarden.pdf">Algemene Voorwaarden</a><br />
 <a target="_blank" href="Bestanden/Privacy_reglement_Talent_voor_Taal.pdf">Privacyverklaring Talent voor Taal</a>
 <br /><br />
-<a href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/Facebook.png" style="height: 40px;"></a>
-<a href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/LinkedIn.png" style="height: 40px;"></a>
+<a target="_blank" href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/Facebook.png" style="height: 40px;"></a>
+<a target="_blank" href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/LinkedIn.png" style="height: 40px;"></a>
 <br />
 </div>
 ', 1);?>
