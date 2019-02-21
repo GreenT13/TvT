@@ -10,8 +10,8 @@ $Body = new Body(); $Body->CreateBody('
   <li>Met Corintha werk ik altijd heel goed samen. De echte lerares!</li>
 </ul><a class="clink" href="Reacties.php">Meer...</a>
 <br /><br />
-<a target="_blank" href="http://www.linkedin.com/pub/corintha-apon/43/2a7/b05"><img src="images/Linkedin.png" style="height: 37px;"></a>
-<a target="_blank" href="https://www.facebook.com/TalentvoorTaal"><img src="images/fb.png" style="height: 37px;"></a><br /><br />
+<a target="_blank" href="http://www.linkedin.com/pub/corintha-apon/43/2a7/b05"><img src="M/Images/LinkedIn.png" style="height: 37px;"></a>
+<a target="_blank" href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/Facebook.png" style="height: 37px;"></a><br /><br />
 </div>
 <div id="bodyleft"><br /><h1>Voorstellen</h1>
 Corintha Apon is de eigenaar van Talent voor Taal.<br /><br /><img src="Voorstellen.jpg" style="height: 170px;" alt="Corintha Apon" /><br /><br />

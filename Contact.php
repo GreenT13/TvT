@@ -18,11 +18,12 @@ M 06 48861056<br /><br />
 <a href="mailto:info@talentvoortaal.nl">info@talentvoortaal.nl</a><br />
 Skype: corintha.apon<br /><br />
 <a target="_blank" href="http://www.kvk.nl">KvK</a> nr. 27354321<br />
-Register <a target="_blank" href="http://www.bvnt2.org/index.php?buttonID=23">BVNT2</a><br />
-<a target="_blank" href="Algemene_voorwaarden.pdf">Algemene Voorwaarden</a><br />
-<br /><a target="_blank" href="http://www.bvnt2.org/index.php?buttonID=23"><img src="images/NT2.jpg" style="height: 37px;"></a> <br />
-<a target="_blank" href="https://www.facebook.com/TalentvoorTaal"><img src="images/fb.png" style="height: 37px;"></a> &nbsp;<a target="_blank" href="http://www.linkedin.com/pub/corintha-apon/43/2a7/b05"><img src="images/Linkedin.png" style="height: 37px;"></a>
-&nbsp;<a target="_blank" href="https://www.crkbo.nl/Register/Instellingen"><img src="images/CRKBO.jpg" style="height: 37px;"></a><br /><br />
+Register <a target="_blank" href="https://bvnt2.org/beroepsregister-nt2-docenten-bvnt2/">BVNT2</a><br />
+<a target="_blank" href="Bestanden/Algemene_voorwaarden.pdf">Algemene Voorwaarden</a><br />
+<a target="_blank" href="Bestanden/Privacy_reglement_Talent_voor_Taal.pdf">Privacyverklaring Talent voor Taal</a>
+<br /><br />
+<a href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/Facebook.png" style="height: 40px;"></a>
+<a href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/LinkedIn.png" style="height: 40px;"></a>
 <br />
 </div>
 ', 1);?>
