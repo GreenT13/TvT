@@ -1,0 +1,99 @@
+/* Standard stuff */
+html { overflow-y: scroll; height: 100%;} /* 99% van de pagina's heeft scrollbar, de 1% moet het dan dus ook hebben */
+body { height: 100%; background-color: #c0c0c0; font-family: Arial, Helvetica, sans-serif; }
+* { border: 0; margin: 0; padding: 0px; text-decoration: none; font-weight: normal;}
+a:link { color: #800080; font-weight: normal; }
+a:visited { color: #800080; font-weight: normal; }
+
+/* Bodyleft links */
+#bodyleft a:link {  font-weight: bold !important; }
+#bodyleft a:visited { font-weight: bold !important; }
+
+/* Bodyright links */
+#bodyright a:link { color: black !important; }
+#bodyright a:visited { color: black !important; }
+#bodyright a:hover { color: #800080 !important; }
+
+/* Bodyright other links*/
+#bodyright a.clink { color: #800080 !important; }
+#bodyright a.blink { font-weight: bold !important; color: #800080 !important;}
+
+/* Footer links */
+#footer_center a:link { color: white !important; font-weight: normal !important; }
+#footer_center a:visited { color: white !important; font-weight: normal !important; }
+
+/* Koppen */
+h1 { color: #800080; font-size: 12pt; }
+
+/* Standard lists */
+ul { list-style-type: circle; padding-left: 17px; margin: 0px; }
+
+/* Looping background codes */
+#bg_header{ width: 100%; background: url(images/Menu.jpg) repeat-x; }
+#bg_footer{ width: 100%; background: url(images/Footer.jpg) bottom repeat-x; z-index: -1; margin-top: -40px; line-height: 20px;}
+
+/* Wrapper menu, bodyright, bodyleft */
+#wrapper { min-height: 100%; width: 100%; }
+#footcodewrap { width: 875px; margin: 0px auto; padding-bottom: 40px;}
+
+/* Space Header - Menu */
+#pad { padding-top: 50px; }
+
+/* Header */
+#header{ height: 112px; width: 100%; margin: 0px auto; }
+#header_titel{ font-size: 50px; padding-top: 10px; color: #800080; }
+#header_text{ float: left; padding-left: 7px; }
+
+/* Menu */
+#menu{
+  width: 900px; /* Niet 875 omdat de T anders niet past*/
+  height: 40px;
+  text-align: center;
+  margin: -52px auto 0px;
+}
+#menu div{
+  height: 40px;
+  display: inline;
+  line-height: 40px;
+  float: left;
+  padding-left: 5px;
+  font-size: 13pt;
+}
+#menu a { color: white; padding-top: 9px; }
+#menu a:hover { color: black; }
+#space{ margin-left: 18px; }
+
+/* Content */
+#content{
+  width: 875px; height: auto;
+  position: relative;
+  font-size: 10pt;
+  line-height: 20px;
+}
+
+/* Body */
+#bodyleft{ position: relative; left: 0; top: 0; width: 575px; padding-left: 5px; }
+#bodyright{ float: right; width: 246px; }
+
+/* Footer */
+#footer{
+  height: 40px; width: 875px;
+  margin: 0px auto 0px;
+  color: white;
+  line-height: 20px;
+  font-size: 13px;
+  text-align: center;
+  clear:both;
+  z-index: 2;
+}
+#footer_center{ text-align: center; display: inline;  }
+#space_footer{ margin-left: 10px; margin-right: 10px; display: inline; }
+
+/*Opera Fix */
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}

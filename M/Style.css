@@ -1,0 +1,154 @@
+html, body{
+  text-decoration: none;
+  font-weight: normal;
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100%; height:100%; width: 100%;
+  background-color: #c0c0c0;
+}
+a:link { color: #800080; text-decoration: none; font-weight: none; }
+a:visited { color: #800080; text-decoration: none; font-weight: none; }
+h1 { color: #800080; font-size: 14pt; font-weight: normal; padding:0px; margin:0px; }
+
+#wrapper{
+  min-height: 100%; height: 100%;
+  position: relative;
+}
+
+#headerPicture{
+  width: 100%;
+}
+#header{
+  background-color: #c0c0c0;
+  width: 100%;
+  height: 50px;
+  clear: left;
+}
+
+#headerTitle{
+  display: table-cell;
+  font-weight: bold;
+  color: #800080;
+  font-size: 20px;
+  line-height: 50px;
+  float: left;
+  height: 50px;
+  padding-left: 5px;
+}
+#headerButton{
+  background-image: url("Images/MenuPixel.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px;
+  float: left;
+  width: 32px; height: 32px;
+  margin-left: 9px; margin-top: 9px;
+}
+
+#headerMenu{
+  background-color: #800080;
+  width: 100%;
+}
+
+#headerMenu div{
+  padding-left: 15px;
+}
+
+#headerMenu a{
+  color: #c0c0c0;
+  display: block;
+  width: 100%;
+  height: 28px;
+  line-height: 28px;
+}
+
+#headerMenu #headerLine{
+  background-color: #c0c0c0;
+  height: 1px;
+  width: 100%;
+  padding: 0px;
+}
+
+#hline{
+  background-color: #800080;
+  height:1px; width: 100%;
+  margin-bottom: 5px
+}
+
+#fline{
+  background-color: #800080;
+  height:1px; width: 100%;
+  margin-bottom: 5px
+}
+
+#content{
+  background-color:#c0c0c0;
+  padding-left: 15px; padding-right:15px; padding-top: 5px;
+  font-weight: normal;
+  font-size: 12pt;
+  line-height: 20px;
+  color: #4d4d4d;
+}
+
+#content a{
+  font-weight: bold;
+}
+
+#content img{
+	padding-bottom: 15px;
+}
+
+#footer{
+  background-color: #c0c0c0;
+  width:100%;
+  height: 110px;
+  font-size: 12pt;
+}
+
+#goTop img {
+  display: block;
+  margin: auto;
+}
+
+#footerMenu{
+  text-align: center;
+  color: #800080;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 5px;
+}
+
+#footerLogos{
+  clear;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  text-align: center;
+  width: 100%;
+}
+
+#footerLogos div{
+display: inline;
+}
+
+#footerLeft{
+  display: inline;
+  width: 48%;
+  float: left;
+  text-align: right;
+}
+
+#footerRight{
+  display: inline;
+  width: 48%;
+  float: right;
+  text-align: left;
+}
+
+#space_footer{
+  padding-left: 5px;
+  padding-right: 5px;
+  display: inline;
+}

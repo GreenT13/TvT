@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="nl">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <script src="Js/jquery-3.1.1.js"></script>
+  <link href="Style.css" rel="stylesheet" type="text/css">
+<script>
+$(document).ready(function(){
+  $("#headerButton").click(function(){
+    if ($('#headerMenu').is(":visible")) {
+      $("#headerMenu").slideUp();
+    } else {
+      $("#headerMenu").slideDown();
+    }
+  });
+});
+</script>
+<script type="text/javascript">
+if (screen.width > 699) {
+document.location = "http://www.talentvoortaal.nl/index.php";
+}
+</script>
+<body><div id="wrapper">
+<div id="headerPicture"><img src="Images/headerPicture<?php if(isset($picture)){ echo $picture; }else{ echo "Home"; } ?>.jpg" width="100%" style="float:left;" alt="Cursisten"></div>
+<div id="header">
+  <div id="headerButton"></div><div id="headerTitle">Talent voor Taal<?php if(isset($title)){echo " - ".$title;}?></div>
+</div>
+<div id="headerMenu" hidden>
+  <div><a href="index.php">Over Talent voor Taal</a></div>
+  <div id="headerLine"></div>
+  <div><a href="Trainingen.php">Trainingen</a></div>
+  <div id="headerLine"></div>
+  <div><a href="Reacties.php">Reacties</a></div>
+  <div id="headerLine"></div>
+  <div><a href="English.php">English</a></div>
+  <div id="headerLine"></div>
+  <div><a href="Contact.php">Contact</a></div>
+</div>
+<div id="hline"></div>
+<div id="content">
