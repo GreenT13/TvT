@@ -20,14 +20,14 @@ include 'Classes/BodyTop.php';
     <br/><br/><a href="Oefenen.php"
                  style="font-size: 12pt; background-color: #800080; color: white !important;">Oefenen</a>
     <br><br>
-    <div style="border: 1px; border-style: solid; border-color: #800080; padding: 4px;">
+    <!--<div style="border: 1px; border-style: solid; border-color: #800080; padding: 4px;">
         <b style="color: #800080; font-weight: bold;">Nieuws</b>: Groepstraining taalverhoging A2 naar B1, voorbereiding
         op het Staatsexamen NT2 Programma I. Start: april 2019 in Voorburg. Klik <a
                 href="Bestanden/Training_A2_naar_B1_Stex.pdf"
                 style="font-weight: bold; color: #800080 !important">hier</a> voor meer informatie of neem <a
                 href="mailto:info@talentvoortaal.nl" style="font-weight: bold; color: #800080 !important">contact</a>
         op.
-    </div>
+    </div>-->
     </div>
     <div id="bodyleft"><br/>
         <h1>Talent voor Taal</h1>

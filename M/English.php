@@ -1,5 +1,5 @@
 <?php
-$title = "English";
+$picture = "Contact"; $title = "English";
 include("Classes/Header.html");
 ?>
 Talent voor Taal is based in the The Hague area and offers professional tuition in Dutch. Training modules are available both for native speakers who wish to improve certain aspects of their Dutch and for foreign students who wish to communicate more easily with their Dutch friends, colleagues and neighbours. The training methods are flexible and tuition will be adapted to your individual level and personal learning style. <br><br>

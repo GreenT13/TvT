@@ -28,7 +28,9 @@ include 'Classes/BodyTop.php';
         <br/><br/>
         <a target="_blank" href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/Facebook.png"
                                                                                style="height: 40px;"></a>
-        <a target="_blank" href="https://www.facebook.com/TalentvoorTaal"><img src="M/Images/LinkedIn.png"
+        <a target="_blank" href="https://nl.linkedin.com/in/corinthaapon"><img src="M/Images/LinkedIn.png"
+                                                                               style="height: 40px;"></a>
+	   <a target="_blank" href="https://www.crkbo.nl/Register/Instellingen"><img src="M/Images/CRKBO.png"
                                                                                style="height: 40px;"></a>
         <br/>
     </div>

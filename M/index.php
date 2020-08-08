@@ -1,4 +1,5 @@
 <?php
+$picture = "Home"; $title = "Home";
 include("Classes/Header.html");
 ?>
 
